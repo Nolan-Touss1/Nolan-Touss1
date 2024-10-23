@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Nolan-Touss1
+- 👀 I’m interested in developing
+- 🌱 I’m currently learning many languages as C#, Python,...
+- 💞️ I’m looking to collaborate on interesting projects.
+- 📫 How to reach me nolan.toussaint@helpline.fr
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: My haircut was a mistake.
